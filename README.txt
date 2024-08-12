@@ -2,6 +2,8 @@ Nmap VNC Authentication Scanner
 Steve Ocepek
 socepek@trustwave.com
 
+Forked and modded by ITmustang August 12th 2024
+
 INTRODUCTION
 ============
 
